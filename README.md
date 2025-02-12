@@ -40,4 +40,11 @@ http://localhost:8501
 - **Built with**: Python, Streamlit, Docker
 - **License**: MIT
 - **Docker Hub**: [Docker Hub](https://hub.docker.com/repository/docker/hitruong05/movie-recommender-system/general)
+---
+
+## 📞 Contact
+If you have any questions or suggestions, feel free to reach out:
+**Mail**: [Link Text](mailto:hitruong.work@gmail.com)
+---
+
 ## ⭐ If you like this project, give it a star and share it! 🚀
