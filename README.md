@@ -42,9 +42,10 @@ http://localhost:8501
 - **Docker Hub**: [Docker Hub](https://hub.docker.com/repository/docker/hitruong05/movie-recommender-system/general)
 ---
 
-## 📞 Contact
-If you have any questions or suggestions, feel free to reach out:
-- **Email**: [Link Text](mailto:hitruong.work@gmail.com)
+## 📞 Contact  
+If you have any questions or suggestions, feel free to reach out:  
+- **📧 Email**: [hitruong.work@gmail.com](mailto:hitruong.work@gmail.com)  
+- **🔗 LinkedIn**: [linkedin.com/in/hitruong](https://www.linkedin.com/in/hitruong/)  
 ---
 
 ## ⭐ If you like this project, give it a star and share it! 🚀
